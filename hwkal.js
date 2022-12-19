@@ -33,7 +33,7 @@ global.premium = ['6281364399250'] // ubah aja pake nomor lu
 global.packname = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' // ubah aja
 global.ownerr = ['𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒'] // ubaha aja
 global.author = '𝐉𝚫𝐍𝐒𝚵𝐍 𝐌Ṏ𝐃𝐒' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.sessionName = './haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
